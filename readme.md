@@ -1,7 +1,3 @@
-Here’s a clean and simple **README.md** you can include in your GitHub repo 👇
-
----
-
 ````markdown
 # 🧠 Brain Tumor Detection using CNN
 
